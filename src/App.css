@@ -97,7 +97,7 @@
 
 .project-image-left {
   border-radius: 6px;
-  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5), 0 4px 16px 0 rgba(0,0,0,0.15);
+  box-shadow: 0 4px 16px 0 rgba(0,0,0,0.15);
   height: 100%;
   float: left;
   margin-right: 20px;
@@ -105,7 +105,7 @@
 
 .project-image-right {
   border-radius: 6px;
-  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5), 0 4px 16px 0 rgba(0,0,0,0.15);
+  box-shadow: 0 4px 16px 0 rgba(0,0,0,0.15);
   height: 100%;
   float: right;
   margin-left: 20px;
