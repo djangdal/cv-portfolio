@@ -25,6 +25,7 @@
 .container {
   width: 60%;
   margin: auto;
+  padding-bottom: 130px;
 }
 
 #profile-header {
@@ -32,7 +33,7 @@
   width: 90%;
   margin: auto;
   padding-bottom: 50px;
-  padding-top: 50px;
+  padding-top: 140px;
 }
 
 #profile-image {
@@ -44,7 +45,7 @@
 }
 
 #profile-info {
-  margin-left: 20px;
+  margin-left: 60px;
 }
 
 #profile-title {
@@ -119,7 +120,7 @@
 .project-info-right {
   float:right;
   text-align: right;
-  width: 40%;
+  width: 42%;
 }
 
 .project-info-title {
@@ -137,7 +138,9 @@
   font-size: 14px;
   color: #303030;
   letter-spacing: 0.54px;
-   line-height: 24px;
+  line-height: 24px;
+  orphans: 0;
+  widows: 0;
 }
 
 .project-info-logo {
